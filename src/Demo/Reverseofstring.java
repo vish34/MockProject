@@ -35,6 +35,8 @@ public class Reverseofstring {
 				System.out.println(strb);
 			}
 		}
+		
+
 	
 		public static class reverseno{
 			public void rmethod1() {
@@ -53,3 +55,4 @@ public class Reverseofstring {
 	}
 
 //demo
+//abc
